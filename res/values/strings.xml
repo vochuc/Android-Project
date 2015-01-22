@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Món Ngon Mỗi Ngày</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_catalog">Món Ngon Mỗi Ngày</string>
+    <string name="title_activity_menu_list">MenuListActivity</string>
+    <string name="app_version">Phiên bản: 1.0</string>
+    <string name="databaseVersion">1</string>
+
+    <color name="xanh">#008080</color>
+
+    <string name="title_activity_send_email">Send Email</string>
+    <string name="title_activity_favorite_food">Những món yêu thích</string>
+    <string name="title_activity_favorite">Món ăn yêu thích</string>
+    <string name="title_activity_search_food">Tìm kiếm món ăn</string>
+
+</resources>
